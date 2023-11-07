@@ -1,0 +1,27 @@
+{
+  "version": "2.1.1",
+  "summary": {
+    "title": "Threat Model_Main",
+    "owner": "Boyong",
+    "description": "Fake system to practice TM",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "Main_STRIDE diagram",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.1.1",
+        "cells": [],
+        "description": "STRIDE diagram for Main"
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "",
+    "threatTop": 0
+  }
+}
